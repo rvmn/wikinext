@@ -11,6 +11,7 @@
         "less": ">= 0.0.1",
         "jsdeferred": "0.4.0",
         "mongoskin": "0.3.6",
+        "mustache":"*",
         "now": "0.8.1",
         "vie": "2.0.2",
         "jquery": "1.7.2",
